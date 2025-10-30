@@ -1,0 +1,5 @@
+build/
+stm32build/
+README.rst
+*.swp
+*.swo
